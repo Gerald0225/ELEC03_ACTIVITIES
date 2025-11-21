@@ -5,6 +5,7 @@
 ### [Midterms Exam - Chicago Crimes](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/midterms_exam.ipynb) 
 ### [Project 3 - PH Dengue Cases](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/project3.ipynb) 
 ### [Assignment - Linear Regression](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Prio_Gerald_SalaryPrediction.ipynb) 
+### [Understanding Logistic Regression]()
 
 
 
