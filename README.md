@@ -49,6 +49,6 @@ Topic: Machine Learning
 
 9. Project 7 - Power DB Movie Gross Ratings
 
-🔗 
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Movie%20Gross%20Ratings.pbix
 
 Topic: Visualizations of Movie Gross Ratings CSV
