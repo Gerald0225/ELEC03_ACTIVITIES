@@ -1,56 +1,54 @@
-# ELEC303 Data Analytics 
-
-### [Activity 1 - Palmer Penguin](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/activity1.ipynb) 
-### [Activity 2 - UK Accidents](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/activity2.ipynb) 
-### [Midterms Exam - Chicago Crimes](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/midterms_exam.ipynb) 
-### [Project 3 - PH Dengue Cases](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/project3.ipynb) 
-### [Assignment - Linear Regression](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Prio_Gerald_SalaryPrediction.ipynb) 
-### [Understanding Logistic Regression](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Logistic_Regression.ipynb)
-### [Machine Learning - Exercise 1](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Machine_Learning_Exercise1-Prio.ipynb)
-### [Machine Learning - Titanic Survivability Prediction](https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/TitanicSurvavility_MachineLearning.ipynb)
-### [Movie Gross Rating Analysis]()
-
 ELEC303 — Data Analytics
-1. Activity 1
+1. Project 1 - Palmer Penguins
 
-🔗 https://github.com/Kairuu12/ITELEC303---Activity-1---DSantos/blob/main/Jupyter%20PC/Activity%201.ipynb
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/activity1.ipynb
 
 Topic: Data Analytics using the Palmer’s Penguins Dataset
 
-2. Activity 2
+2. Project 2 - UK Accidents
 
-🔗 https://github.com/Kairuu12/Activity2/blob/main/Activity-2.ipynb
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/activity2.ipynb
 
 Topic: Data Analytics for UK Road Accidents
 
-3. Activity 3
+3. Project 3 - Dengue Cases
 
-🔗 https://github.com/Kairuu12/Act3.git
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/project3.ipynb
 
 Topic: Data Analytics for Dengue Cases
 
-4. Midterms Exam
+4. Midterms Exam -Chicago Crimes
 
-🔗 https://github.com/Kairuu12/Mid-Terms-Exam-Data-Analytics/blob/main/Midterms%20Exam.ipynb
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/midterms_exam.ipynb
 
 Topic: Data Analytics for Chicago Crimes
 
-5. Assignment
+5. Online Assignment - Linear Regression
 
-🔗 https://github.com/Kairuu12/Assignment.git
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Prio_Gerald_SalaryPrediction.ipynb
 
 Topic: Linear Regression Assignment
 
-6. Machine Learning Projects
+6. Understanding Logistic Regression
 
-🔗 https://github.com/Kairuu12/MachineLearning.git
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Logistic_Regression.ipynb
 
-🔗 https://github.com/Kairuu12/Linear-Regression.git
+Topic: Logistic Regression
 
-Topic: Machine Learning and Linear Regression Practice
+7. Project 5 - Exercise 1
 
-7. Power DB Movie Gross Ratings
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/Machine_Learning_Exercise1-Prio.ipynb
 
-🔗 https://github.com/Kairuu12/Power-BI-Gross-Movie-Ratings.git
+Topic: Machine Learning
+
+8. Project 6 - Titanic Survivability Prediction
+
+🔗 https://github.com/Gerald0225/ELEC03_ACTIVITIES/blob/main/ELEC03-3C/PRIO/TitanicSurvavility_MachineLearning.ipynb
+
+Topic: Machine Learning
+
+9. Project 7 - Power DB Movie Gross Ratings
+
+🔗 
 
 Topic: Visualizations of Movie Gross Ratings CSV
